@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zehao Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Concordia University\n member of SPEAR lab"
+  bio              : "Ph.D. student at Concordia University" 
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 

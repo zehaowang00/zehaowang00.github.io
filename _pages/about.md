@@ -31,7 +31,7 @@ Selected Publications
   2ACM Joint European Software Engineering Conference and Symposium (FSE 2021)\
   [PDF](http://zehaowang00.github.io/files/fse2021_dplog.pdf.pdf)  
   * An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications\
-  **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang
+  **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang\
   Journal of Systems and Software (JSS)
 
 
@@ -40,14 +40,11 @@ Selected Publications
   
 Experience
 ======
-* Working Experience
-  * Big data engineer at [vivo](http://www.vivo.com/en/) company
-* Academic Services
+* Professional Experience
+  * Big data engineer at [vivo](http://www.vivo.com/en/) compan
   * [Shadow Program Committee](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc?): MSR 2022
-  
-* Teaching Assistant
-  * COMP 248: Object-Oriented Programming (2021)
-  * SOEN341 Software Processing (2021)
+  * Teaching Assistant at COMP 248: Object-Oriented Programming (2021)
+  * Teaching Assistant at SOEN341 Software Processing (2021)
   
 
 Honors and Awards
