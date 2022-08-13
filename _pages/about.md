@@ -41,7 +41,7 @@ Selected Publications
 Experience
 ======
 * Professional Experience
-  * Big data engineer at [vivo](http://www.vivo.com/en/) compan
+  * Big data engineer at [vivo](http://www.vivo.com/en/) company (2016 - 2017)
   * [Shadow Program Committee](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc?): MSR 2022
   * Teaching Assistant at COMP 248: Object-Oriented Programming (2021)
   * Teaching Assistant at SOEN341 Software Processing (2021)
