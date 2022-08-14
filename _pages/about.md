@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D. in Computer Science, Concordia University
 * Msc. in Computer Science, Concordia University, 2021
-* B.Eng. in Software Engineering, Xidian University, 2016\
+* B.Eng. in Software Engineering, Xidian University, 2016
 
  
 Selected Publications
@@ -28,11 +28,11 @@ Selected Publications
   [PDF](http://zehaowang00.github.io/files/ICSE2021_SRC.pdf)
   * Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Applications\
   **Zehao Wang**, Haoxiang Zhang, Tse-Hsun (Peter) Chen, Shaowei Wang \
-  2ACM Joint European Software Engineering Conference and Symposium (FSE 2021)\
+  2ACM Joint European Software Engineering Conference and Symposium (**FSE 2021**))\
   [PDF](http://zehaowang00.github.io/files/fse2021_dplog.pdf.pdf)  
   * An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications\
   **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang\
-  Journal of Systems and Software (JSS)
+  Journal of Systems and Software (**JSS**)
 
 
 
