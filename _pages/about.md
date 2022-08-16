@@ -24,7 +24,7 @@ Selected Publications
 * Papers
   * Understanding the challenges and assisting developers with developing spark applications\
   **Zehao Wang** \
-  2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)\
+  2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion**)\
   [PDF](http://zehaowang00.github.io/files/ICSE2021_SRC.pdf)
   * Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Applications\
   **Zehao Wang**, Haoxiang Zhang, Tse-Hsun (Peter) Chen, Shaowei Wang \
