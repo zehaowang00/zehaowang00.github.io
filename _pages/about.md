@@ -29,11 +29,11 @@ Selected Publications
   * Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Applications\
   **Zehao Wang**, Haoxiang Zhang, Tse-Hsun (Peter) Chen, Shaowei Wang \
   2ACM Joint European Software Engineering Conference and Symposium (**FSE 2021**))\
-  [PDF](http://zehaowang00.github.io/files/fse2021_dplog.pdf.pdf)  
+  [PDF](http://zehaowang00.github.io/files/fse2021_dplog.pdf)  
   * An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications\
   **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang\
   Journal of Systems and Software (**JSS 2022**)\
-  [PDF preprint](https://www.sciencedirect.com/science/article/pii/S0164121222001674?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265725691&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM287333&utm_source=AC_) 
+  [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222001674?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265725691&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM287333&utm_source=AC_) 
 
 
 
