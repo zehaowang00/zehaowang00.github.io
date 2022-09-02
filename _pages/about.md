@@ -33,7 +33,7 @@ Selected Publications
   * An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications\
   **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang\
   Journal of Systems and Software (**JSS 2022**)\
-  [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222001674?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265725691&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM287333&utm_source=AC_) 
+  [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222001674) 
 
 
 
