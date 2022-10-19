@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zehao Wang | 王泽昊"
+title                    : "Zehao Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Zehao Wang"
 description              : &description "personal description"
