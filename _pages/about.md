@@ -57,4 +57,4 @@ Honors and Awards
 Other Information
 ======
 * Hobby
-  * Table Tennis, Badminton, Video Games
+  * Table Tennis, Photography, Badminton
