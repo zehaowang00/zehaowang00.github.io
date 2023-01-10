@@ -14,7 +14,7 @@ I'm a Ph.D. student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehs
 
 Education
 ======
-* Ph.D. in Computer Science, Concordia University
+* Ph.D. in Computer Science, Concordia University, in progress
 * Msc. in Computer Science, Concordia University, 2021
 * B.Eng. in Software Engineering, Xidian University, 2016
 
