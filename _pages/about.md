@@ -34,6 +34,9 @@ Selected Publications
   **Zehao Wang**, Tse-Hsun (Peter) Chen, Haoxiang Zhang, Shaowei Wang\
   Journal of Systems and Software (**JSS 2022**)\
   [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222001674) 
+  * RPerf: Mining User Reviews Using Topic Modeling to Assist Performance Testing: An Industrial Experience Report\
+  **Zehao Wang**, Wei Liu, Jinfu Chen, Tse-Hsun (Peter) Chen
+  Journal of Systems and Software (**JSS 2024**)\
 
 
 
