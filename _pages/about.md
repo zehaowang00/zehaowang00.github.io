@@ -36,7 +36,12 @@ Selected Publications
   [PDF](https://www.sciencedirect.com/science/article/pii/S0164121222001674) 
   * RPerf: Mining User Reviews Using Topic Modeling to Assist Performance Testing: An Industrial Experience Report\
   **Zehao Wang**, Wei Liu, Jinfu Chen, Tse-Hsun (Peter) Chen
-  Journal of Systems and Software (**JSS 2024**)\
+  Journal of Systems and Software (**JSS 2024**)
+  [PDF](https://www.sciencedirect.com/science/article/pii/S0164121224003273) 
+  * Identifying Performance-Sensitive Configurations in Software Systems with LLM-Driven Agents\
+  **Zehao Wang**
+  2025 IEEE/ACM 47rd International Conference on Software Engineering: Companion Proceedings (**ICSE-SRC**)\
+
 
 
 
