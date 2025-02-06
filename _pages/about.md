@@ -66,4 +66,4 @@ Honors and Awards
 Other Information
 ======
 * Hobby
-  * Badminton, Table Tennis, Photography
+  * Badminton, Tennis, Photography
