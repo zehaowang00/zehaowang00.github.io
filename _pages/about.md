@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I'm a Ph.D. student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) at [Concordia University](https://www.concordia.ca/), Montreal, Canada. My research interests include big data system, data analysis, software performance engineering.
+I'm a Ph.D. student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) at [Concordia University](https://www.concordia.ca/), Montreal, Canada. My research interests include big data system, data analysis, software performance engineering, LLMs.
 
 Education
 ======
@@ -65,4 +65,4 @@ Honors and Awards
 Other Information
 ======
 * Hobby
-  * Table Tennis, Photography, Badminton
+  * Badminton, Table Tennis, Photography
