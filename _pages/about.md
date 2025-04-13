@@ -59,4 +59,4 @@ I'm a Ph.D. student supervised by [Dr. Tse-Hsun (Peter) Chen](https://petertsehs
 # Other Information
 
 - Hobby
-  - Badminton, Tennis, Photography
+  - Badminton, Piano, Tennis, Photography, Guitar, Cycling
