@@ -1,0 +1,52 @@
+name: "Zehao Wang"
+title: "Ph.D. Candidate, Software Engineering"
+affiliation: "Concordia University · Montréal"
+photo: /images/profile.png
+
+currently: >
+  Working on <em>LLM-driven agents for performance-sensitive
+  configuration tuning</em> in distributed systems. Reading more
+  systems-conference papers than I should.
+
+bio: >
+  I am a Ph.D. student in the
+  <a href="https://users.encs.concordia.ca/~peterc/" target="_blank" rel="noopener">SPEAR Lab</a>
+  at <a href="https://www.concordia.ca" target="_blank" rel="noopener">Concordia University</a>,
+  advised by <a href="https://petertsehsun.github.io/" target="_blank" rel="noopener">Dr. Tse-Hsun (Peter) Chen</a>.
+  My research sits at the intersection of <em>software performance engineering</em>,
+  <em>big-data systems</em>, and <em>LLM-driven program analysis</em> — I build tools that
+  help developers reason about, debug, and tune systems too large to hold in any one head.
+  Before Concordia (M.Sc. 2021), I was a big-data engineer at vivo and studied software
+  engineering at Xidian University (B.Eng. 2016).
+
+interests:
+  - "Software performance & configuration"
+  - "Big-data systems (Spark, distributed runtimes)"
+  - "LLM-driven program analysis & agents"
+  - "Empirical software engineering"
+
+contacts:
+  - { label: "Email",   url: "mailto:w_zeha@encs.concordia.ca", icon: "mail" }
+  - { label: "Scholar", url: "https://scholar.google.ca/citations?user=LM-eWdIAAAAJ&hl=en", icon: "scholar" }
+  - { label: "GitHub",  url: "https://github.com/zehaowang00", icon: "github" }
+  - { label: "Twitter", url: "https://twitter.com/Zehao_Wang_", icon: "twitter" }
+  - { label: "CV",      url: "/cv/", icon: "cv" }
+
+education:
+  - { degree: "Ph.D., Computer Science", school: "Concordia University", year: "in progress" }
+  - { degree: "M.Sc., Computer Science", school: "Concordia University", year: "2021" }
+  - { degree: "B.Eng., Software Engineering", school: "Xidian University", year: "2016" }
+
+experience:
+  - { role: "Big-data Engineer", org: "vivo", years: "2016 – 2017" }
+  - { role: "Shadow Program Committee", org: "MSR 2022", years: "2022" }
+  - { role: "Teaching Assistant — SOEN 7481 Software Verification & Testing", org: "Concordia University", years: "2025" }
+  - { role: "Teaching Assistant — SOEN 341 Software Process", org: "Concordia University", years: "2021" }
+  - { role: "Teaching Assistant — COMP 248 Object-Oriented Programming", org: "Concordia University", years: "2021" }
+
+honors:
+  - "Concordia International Tuition Award of Excellence"
+  - "Concordia University Conference & Exposition Award"
+  - "Concordia Merit Scholarship"
+
+hobbies: "Badminton · Piano · Tennis · Photography · Guitar · Cycling"

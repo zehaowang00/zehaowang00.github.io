@@ -1,0 +1,64 @@
+- title: "Identifying Performance-Sensitive Configurations in Software Systems with LLM-Driven Agents"
+  authors:
+    - { name: "Zehao Wang", me: true }
+  venue: "ICSE-SRC"
+  venue_full: "ACM/IEEE 47th International Conference on Software Engineering — Student Research Competition"
+  year: 2025
+  tier: top
+  thumb: /images/profile.png
+  links:
+    - { label: "PDF", url: "" }
+
+- title: "RPerf: Mining User Reviews Using Topic Modeling to Assist Performance Testing — An Industrial Experience Report"
+  authors:
+    - { name: "Zehao Wang", me: true }
+    - { name: "Wei Liu" }
+    - { name: "Jinfu Chen" }
+    - { name: "Tse-Hsun (Peter) Chen" }
+  venue: "JSS"
+  venue_full: "Journal of Systems and Software (also presented at ICPE 2025 — Journal First track)"
+  year: 2024
+  tier: top
+  thumb: /images/profile.png
+  links:
+    - { label: "PDF", url: "https://www.sciencedirect.com/science/article/pii/S0164121224003273" }
+
+- title: "An Empirical Study on the Challenges that Developers Encounter When Developing Apache Spark Applications"
+  authors:
+    - { name: "Zehao Wang", me: true }
+    - { name: "Tse-Hsun (Peter) Chen" }
+    - { name: "Haoxiang Zhang" }
+    - { name: "Shaowei Wang" }
+  venue: "JSS"
+  venue_full: "Journal of Systems and Software"
+  year: 2022
+  tier: top
+  thumb: /images/profile.png
+  links:
+    - { label: "PDF", url: "https://www.sciencedirect.com/science/article/pii/S0164121222001674" }
+    - { label: "local copy", url: "/files/JSS_2022.pdf" }
+
+- title: "Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Applications"
+  authors:
+    - { name: "Zehao Wang", me: true }
+    - { name: "Haoxiang Zhang" }
+    - { name: "Tse-Hsun (Peter) Chen" }
+    - { name: "Shaowei Wang" }
+  venue: "FSE"
+  venue_full: "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+  year: 2021
+  tier: top
+  thumb: /images/profile.png
+  links:
+    - { label: "PDF", url: "/files/fse2021_dplog.pdf" }
+
+- title: "Understanding the Challenges and Assisting Developers with Developing Spark Applications"
+  authors:
+    - { name: "Zehao Wang", me: true }
+  venue: "ICSE-SRC"
+  venue_full: "IEEE/ACM 43rd International Conference on Software Engineering — Student Research Competition"
+  year: 2021
+  tier: top
+  thumb: /images/profile.png
+  links:
+    - { label: "PDF", url: "/files/ICSE2021_SRC.pdf" }
