@@ -26,7 +26,7 @@ interests:
   - "Empirical software engineering"
 
 contacts:
-  - { label: "Email",   url: "mailto:w_zeha@encs.concordia.ca", icon: "mail" }
+  - { label: "Email",   url: "mailto:zehao.wang@queensu.ca", icon: "mail" }
   - { label: "Scholar", url: "https://scholar.google.ca/citations?user=LM-eWdIAAAAJ&hl=en", icon: "scholar" }
   - { label: "GitHub",  url: "https://github.com/zehaowang00", icon: "github" }
   - { label: "Twitter", url: "https://twitter.com/Zehao_Wang_", icon: "twitter" }
